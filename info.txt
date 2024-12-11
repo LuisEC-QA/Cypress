@@ -1,0 +1,13 @@
+Curso Cypress 
+
+1. npm init 
+
+2.npm install cypress --save-dev
+
+3. node_modules\.bin\cypress open ---- ejecutar
+
+4- npm install -g npx
+
+5- npx cypress open
+
+6-  parar consola
